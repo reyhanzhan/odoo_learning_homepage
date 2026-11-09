@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="homepage_learning_section" inherit_id="website.homepage" name="Odoo Learning Homepage Section">
+        <xpath expr="//div[@id='wrap']" position="inside">
+            <section class="s_text_block pt48 pb48 o_colored_level" data-snippet="s_text_block">
+                <div class="container s_allow_columns">
+                    <h2 class="h3-fs">Dari pengguna menjadi developer Odoo</h2>
+                    <p>Odoo tersusun dari modul. Modul menghubungkan model Python, tampilan XML, dan aturan akses untuk menambahkan fitur.</p>
+                    <p>Mulailah dengan memahami aplikasi, lalu buat modul tambahan sendiri tanpa mengubah source inti Odoo.</p>
+                </div>
+            </section>
+        </xpath>
+    </template>
+</odoo>
